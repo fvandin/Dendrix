@@ -1,0 +1,10 @@
+#!/usr/bin/make -f
+
+PKG=dendrix0.1
+
+%:
+	dh $@
+
+override_dh_auto_install:
+	install -d ./debian/$(PKG)/usr/bin
+	install -m 755 Dendrix.py ./debian/$(PKG)/usr/bin/dendrix0.1

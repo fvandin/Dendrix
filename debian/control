@@ -1,0 +1,14 @@
+Source: dendrix0.1
+Section: science
+Priority: optional
+Build-Depends: debhelper (>= 7)
+Build-Depends-Indep: python
+Maintainer: Fabio Vandin <vandinfa@cs.brown.edu>
+Standards-Version: 3.8.3
+Homepage: http://compbio.cs.brown.edu/projects/dendrix/
+
+Package: dendrix0.1
+Architecture: all
+Depends: ${misc:Depends}, python
+Description: Dendrix De novo Driver Ex Exclusivity identifies driver groups of mutations without prior information
+ Dendrix (De novo Driver Ex Exclusivity) is an algorithm that identifies driver groups of mutations without prior information, using the exclusivity property observed for mutations in a driver pathway.
