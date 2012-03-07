@@ -109,8 +109,8 @@ REFERENCES:
 
 If you use Dendrix in your research, please cite:
 
-F. Vandin, E. Upfal, and B.J. Raphael. (2011) De novo Discovery of Mutated
-Driver Pathways in Cancer. Genome Research, in press.
+F. Vandin, E. Upfal, and B.J. Raphael. (2012) De novo Discovery of Mutated
+Driver Pathways in Cancer. Genome Research, 22, 2:375-85.
 
 WEBSITE:
 http://cs.brown.edu/people/braphael/software.html
